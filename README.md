@@ -13,4 +13,4 @@ Execute the "Status.bat" file to retrieve comprehensive system information. The 
 ![Screenshot 2023-08-19 204802](https://github.com/NiwanthaSandaruwan/Get-Windows-Info/assets/142104353/bf2017b9-5c2e-466f-b37a-3af96d6e0117)
 <br></br>
 <p align="center">##########:rocket: Created By Niwantha Sandaruwan :rocket:##########</p>
-###########################################################################################################
+##########################################################################################################
